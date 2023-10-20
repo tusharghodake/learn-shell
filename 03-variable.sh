@@ -4,7 +4,7 @@
 #This is variable example
 
 name=Tushar
-class = Shell-Script
+class=Shell-Script
 
 echo My Name is $name
 echo My Class Name is $class
