@@ -18,4 +18,16 @@ ADD=$((2+5))
 echo addition is $ADD
 
 ## Variable from command line
+# b=200 bash 03-variable.sh
 echo b - $b
+
+#readonly variable
+c=100
+readonly c
+echo $c
+
+c=500
+
+#export variable
+d=10
+export d
