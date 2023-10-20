@@ -16,3 +16,6 @@ echo Todays date is $DATE
 
 ADD=$((2+5))
 echo addition is $ADD
+
+## Variable from command line
+echo b - $b
