@@ -7,7 +7,7 @@ name=Tushar
 sirname = G
 
 echo My Name is $name
- echo My sirname is $sirname
+echo My sirname is $sirname
 
 #DATE-2023-10-20
 DATE=$(date +%F)
