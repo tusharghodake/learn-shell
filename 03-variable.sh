@@ -24,10 +24,11 @@ echo b - $b
 #readonly variable
 c=100
 readonly c
-echo $c
+echo this is readonly variable $c
 
 c=500
 
 #export variable
 d=10
 export d
+
