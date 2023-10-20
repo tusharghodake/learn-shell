@@ -6,8 +6,8 @@
 name=Tushar
 sirname = G
 
-echo 'My Name is' $Name $sirname
+echo My Name is $name $sirname
 
 #DATE-2023-10-20
 DATE = $(date +%F)
-echo 'Todays date is' $DATE
+echo Todays date is $DATE
