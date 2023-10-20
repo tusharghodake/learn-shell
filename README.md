@@ -12,4 +12,5 @@ Shell Topics
 6. Exit Status
 7. Inputs
 8. Quotes
-9. 
+9. Redirectors
+10. SED Editor
