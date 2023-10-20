@@ -4,10 +4,10 @@
 #This is variable example
 
 name=Tushar
-sirname = G
+class = Shell-Script
 
 echo My Name is $name
-echo My sirname is $sirname
+echo My Class Name is $class
 
 #DATE-2023-10-20
 DATE=$(date +%F)
